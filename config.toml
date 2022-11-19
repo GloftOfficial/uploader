@@ -1,0 +1,5 @@
+bind = "127.0.0.1:4833"
+file_dir = "uploads"
+domain = "https://i.poro.gq"
+authorization = ""
+secret = ""
